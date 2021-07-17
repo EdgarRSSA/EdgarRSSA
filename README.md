@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @EdgarRSA -> [linkedin](linkedin.com/in/edgarrosalesrsa)
+# 👋 Hi, I’m @EdgarRSA -> [linkedin](https://www.linkedin.com/in/edgarrosalesrsa)
 
 -**THIS IS NOT A TEST**-
 
