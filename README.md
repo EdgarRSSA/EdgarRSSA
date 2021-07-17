@@ -1,6 +1,8 @@
-# 👋 Hi, I’m [@EdgarRSA](linkedin.com/in/edgarrosalesrsa), 
+![.](./src/1.jpg)
 
-**THIS IS NOT A TEST** 
+# 👋 Hi, I’m [@EdgarRSA](linkedin.com/in/edgarrosalesrsa)
+
+**THIS IS NOT A TEST**
 
 - 👀 I’m interested in dev...
 
@@ -11,7 +13,7 @@
   - Microservices,
   - Multiprocessing and Multithreading,
   - AWS BATCH, EC2 , RDS, DYNAMODB, LAMBDA ...
-  - API Devs , 
+  - API Devs ,
   - Desktop cmd tools for admin automation,
   - MongoDB, SQL Server
   - Testing and CI/CD
